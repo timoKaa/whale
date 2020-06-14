@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
 public class WxApplication {
 
 	public static void main(String[] args) {
-//		WebMvcConfigurationSupport
+//		delte .ssh
 		ApplicationContext context = SpringApplication.run(WxApplication.class, args);
 //		System.out.println(context.getBeanDefinitionCount());
 //		Arrays.stream(context.getBeanDefinitionNames()).forEach(System.out::println);
